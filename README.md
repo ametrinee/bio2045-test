@@ -1,5 +1,5 @@
 # Test (BIO2045)
 
-Modificaiton
+Modification
 
 Nouvelle ligne 1, 2
